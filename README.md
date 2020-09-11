@@ -1,3 +1,5 @@
+# Forked, changed to python3
+
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my book on ["Neural Networks
